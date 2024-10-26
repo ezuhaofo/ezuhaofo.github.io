@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ezuhaofo.github.io/sitemap_index.ezuhaofo
